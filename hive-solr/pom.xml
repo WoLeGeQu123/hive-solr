@@ -15,7 +15,7 @@
 <!--        <solr.version>4.10.3</solr.version>-->
         <solr.version>7.7.1</solr.version>
         <hbase.version>1.0.0</hbase.version>
-        <hadoop.version>2.6.0</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
     </properties>
 
     <dependencies>
